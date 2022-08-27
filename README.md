@@ -23,7 +23,10 @@ Hello! My name is Phuc. Thanks for taking the time to view my GitHub profile ðŸ˜
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangphuc1105&theme=algolia)](https://git.io/streak-stats) [![HoangPhuc1105 GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangphuc1105&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangphuc1105&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![HoangPhuc1105 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoangphuc1105&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangphuc1105&theme=algolia)](https://git.io/streak-stats)
+[![HoangPhuc1105 GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangphuc1105&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangphuc1105&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
+[![HoangPhuc1105 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoangphuc1105&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
 
 <br>
 

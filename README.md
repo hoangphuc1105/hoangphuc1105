@@ -6,8 +6,8 @@
 
 
 Hello! My name is Phuc. Thanks for taking the time to view my GitHub profile 😄
-<iframe src="https://giphy.com/embed/13HBDT4QSTpveU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ign-describe-plans-13HBDT4QSTpveU"></a></p>
 
+![alt text](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
 
 <br>
 
